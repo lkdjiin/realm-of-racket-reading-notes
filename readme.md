@@ -39,3 +39,4 @@ upper-left corner!
 - The «guess my number» GUI game: chapter5/guess-gui.rkt
 - Chapter challenges:
   * Easy: chapter5/tank.rkt
+  * Medium: chapter5/guess-gui2.rkt
