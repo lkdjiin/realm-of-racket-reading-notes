@@ -40,3 +40,4 @@ upper-left corner!
 - Chapter challenges:
   * Easy: chapter5/tank.rkt
   * Medium: chapter5/guess-gui2.rkt
+  * Difficult: chapter5/ufo2.rkt
